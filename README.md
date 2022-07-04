@@ -1,8 +1,6 @@
-# Desafio de projeto Git/GitHub Santander - DIO
-Primeiro desafio de projeto - repositório sobre Git/GitHub
+# Repositório de Progresso
 
-## Links Uteis
+### Repositório criado para acompanhar o meu progresso no Bootcamp DIO
 
-[Sintaxe Basica Markdown](https://www.markdownguide.org/basic-syntax/)
-
+Quero mostrar através de versionamento de código, o meu percurso ao longo do bootcamp - DIO
 
